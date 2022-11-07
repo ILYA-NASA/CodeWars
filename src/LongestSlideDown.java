@@ -24,15 +24,24 @@ public class LongestSlideDown {
                         {8, 8, 9, 3}}));
     }
 
-    public static int longestSlideDown(int[][] pyramid) {
-        int[][] result = pyramid;
-        for (int i = pyramid.length - 2; i >= 0; i--) {
-            for (int j = 0; j < pyramid[i].length; j++) {
-                result[i][j] = pyramid[i][j] + Math.max(pyramid[i + 1][j], pyramid[i + 1][j + 1]);
-//                System.out.print(result[i][j] + " ");
-            }
-//            System.out.println();
-        }
-        return result[0][0];
+//    public static int longestSlideDown(int[][] pyramid) {
+//        int[][] result = pyramid;
+//        for (int i = pyramid.length - 2; i >= 0; i--) {
+//            for (int j = 0; j < pyramid[i].length; j++) {
+//                result[i][j] = pyramid[i][j] + Math.max(pyramid[i + 1][j], pyramid[i + 1][j + 1]);
+////                System.out.print(result[i][j] + " ");
+//            }
+////            System.out.println();
+//        }
+//        return result[0][0];
+//    }
+
+    public static int longestSlideDown(int[][] p) {
+
+    for (int i = p.length - 1; i >= 1; i--)
+        for (int j = 0; j < i; j++)
+            p[i - 1][j] += Math.max(p[i][j], p[i][j + 1]);
+
+    return p[0][0];
     }
 }

@@ -36,12 +36,27 @@ public class LongestSlideDown {
 //        return result[0][0];
 //    }
 
-    public static int longestSlideDown(int[][] p) {
+//    public static int longestSlideDown(int[][] p) {
+//
+//    for (int i = p.length - 1; i >= 1; i--)
+//        for (int j = 0; j < i; j++)
+//            p[i - 1][j] += Math.max(p[i][j], p[i][j + 1]);
+//
+//    return p[0][0];
+//    }
 
-    for (int i = p.length - 1; i >= 1; i--)
-        for (int j = 0; j < i; j++)
-            p[i - 1][j] += Math.max(p[i][j], p[i][j + 1]);
-
-    return p[0][0];
+//    скольжение сверху вниз по максимальным значениям
+    public static int longestSlideDown(int[][] pyramid) {
+        int result = pyramid[0][0];
+        int maxSlide;
+        int secondIndexMaxSlide = 0;
+        for (int i = 1; i < pyramid.length; i++) {
+            maxSlide = Math.max(pyramid[i][secondIndexMaxSlide], pyramid[i][secondIndexMaxSlide + 1]);
+            result += maxSlide;
+            if (maxSlide != pyramid[i][secondIndexMaxSlide]
+                    || pyramid[i][secondIndexMaxSlide] == pyramid[i][secondIndexMaxSlide + 1])
+                secondIndexMaxSlide++;
+        }
+        return result;
     }
 }

@@ -6,6 +6,8 @@
 4 kyu:
 - [solution](https://github.com/ILYA-NASA/CodeWars/blob/master/src/RangeExtraction.java) kata named [Range Extraction](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f) 
 - [solution](https://www.codewars.com/kata/525f4206b73515bffb000b21) kata named [Adding Big Numbers](https://github.com/ILYA-NASA/CodeWars/blob/master/src/AddingBigNumbers.java) 
+- [solution](https://github.com/ILYA-NASA/CodeWars/blob/master/src/LongestSlideDown.java) kata named [Pyramid Slide Down
+](https://www.codewars.com/kata/551f23362ff852e2ab000037) 
 
 6 kyu:
 - [solution](https://github.com/ILYA-NASA/CodeWars/blob/master/src/StringSplit.java) kata named [Split Strings](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001)

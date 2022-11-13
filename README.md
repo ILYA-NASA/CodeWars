@@ -9,5 +9,8 @@
 - [solution](https://github.com/ILYA-NASA/CodeWars/blob/master/src/LongestSlideDown.java) kata named [Pyramid Slide Down
 ](https://www.codewars.com/kata/551f23362ff852e2ab000037) 
 
+5 kyu:
+- [solution](https://github.com/ILYA-NASA/CodeWars/blob/master/src/ValidParentheses.java) kata named [Valid Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688)
+
 6 kyu:
 - [solution](https://github.com/ILYA-NASA/CodeWars/blob/master/src/StringSplit.java) kata named [Split Strings](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001)

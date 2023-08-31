@@ -15,3 +15,7 @@
 6 kyu:
 - [solution](https://github.com/ILYA-NASA/CodeWars/blob/master/src/StringSplit.java) kata named [Split Strings](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001)
 - [solution](https://github.com/ILYA-NASA/CodeWars/blob/master/src/TenMinWalk.java) kata named [Take a Ten Minutes Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228)
+
+
+8 kyu:
+- [solution](https://github.com/ILYA-NASA/CodeWars/blob/master/src/ReversedSequence.kt) kata named [Reversed sequence](https://www.codewars.com/kata/5a00e05cc374cb34d100000d/kotlin)

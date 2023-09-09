@@ -1,6 +1,5 @@
-# Here will be my solutions to codewars katas
+# My katas solutions for [codewars](https://www.codewars.com/users/ILYA-NASA)
 
-[My profile](https://www.codewars.com/users/ILYA-NASA)  
 ![image](https://www.codewars.com/users/ILYA-NASA/badges/large)
 
 ### 4 kyu:

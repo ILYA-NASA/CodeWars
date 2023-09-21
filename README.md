@@ -21,3 +21,4 @@
 ### 8 kyu:
 - [solution](https://github.com/ILYA-NASA/CodeWars/blob/master/src/ReversedSequence.kt) kata named [Reversed sequence](https://www.codewars.com/kata/5a00e05cc374cb34d100000d/kotlin)
 - [solution](https://github.com/ILYA-NASA/CodeWars/blob/master/src/OppositesAttract.kt) kata named [Opposites Attract](https://www.codewars.com/kata/555086d53eac039a2a000083/solutions/kotlin)
+- [solution](https://github.com/ILYA-NASA/CodeWars/blob/master/src/RemoveFirstAndLastCharacter.kt) kata named [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/kotlin)

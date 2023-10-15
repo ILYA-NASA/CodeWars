@@ -18,6 +18,7 @@
 ### 7 kyu:
 - [solution](https://github.com/ILYA-NASA/CodeWars/blob/master/src/TwoOldestAges.kt) kata named [Two Oldest Ages](https://www.codewars.com/kata/511f11d355fe575d2c000001/kotlin)
 - [solution](https://github.com/ILYA-NASA/CodeWars/blob/master/src/SimpleBeadsCount.kt) kata named [Simple beads count](https://www.codewars.com/kata/58712dfa5c538b6fc7000569/kotlin)
+- [solution](https://github.com/ILYA-NASA/CodeWars/blob/master/src/GetTheMiddleCharacter.kt) kata named [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028/kotlin)
 
 ### 8 kyu:
 - [solution](https://github.com/ILYA-NASA/CodeWars/blob/master/src/ReversedSequence.kt) kata named [Reversed sequence](https://www.codewars.com/kata/5a00e05cc374cb34d100000d/kotlin)

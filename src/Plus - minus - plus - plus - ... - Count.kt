@@ -15,6 +15,9 @@ fun catchSignChange(arr: Array<Int>): Int {
     return count
 }
 
+//idiomatic solution
+//fun catchSignChange(arr: Array<Int>): Int = arr.map { it >= 0 }.zipWithNext().count { it.first != it.second }
+
 fun main() {
     println(catchSignChange(arrayOf(1, 3, 4, 5)))
     println(catchSignChange(arrayOf<Int>()))

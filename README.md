@@ -26,3 +26,4 @@
 - [solution](https://github.com/ILYA-NASA/CodeWars/blob/master/src/OppositesAttract.kt) kata named [Opposites Attract](https://www.codewars.com/kata/555086d53eac039a2a000083/solutions/kotlin)
 - [solution](https://github.com/ILYA-NASA/CodeWars/blob/master/src/RemoveFirstAndLastCharacter.kt) kata named [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/kotlin)
 - [solution](https://github.com/ILYA-NASA/CodeWars/blob/master/src/EvenOrOdd.kt) kata named [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/kotlin)
+- [solution](https://github.com/ILYA-NASA/CodeWars/blob/master/src/CountPositivesSumNegatives.kt) kata named [Count of positives / sum of negatives](https://www.codewars.com/kata/576bb71bbbcf0951d5000044/kotlin)

@@ -19,6 +19,7 @@
 - [solution](https://github.com/ILYA-NASA/CodeWars/blob/master/src/SimpleBeadsCount.kt) kata named [Simple beads count](https://www.codewars.com/kata/58712dfa5c538b6fc7000569/kotlin)
 - [solution](https://github.com/ILYA-NASA/CodeWars/blob/master/src/GetTheMiddleCharacter.kt) kata named [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028/kotlin)
 - [solution](https://github.com/ILYA-NASA/CodeWars/blob/master/src/Plus%20-%20minus%20-%20plus%20-%20plus%20-%20...%20-%20Count.kt) kata named [Plus - minus - plus - plus - ... - Count](https://www.codewars.com/kata/5bbb8887484fcd36fb0020ca/kotlin)
+- [solution](https://github.com/ILYA-NASA/CodeWars/blob/master/src/LeapYears.kt) kata named [Leap Years](https://www.codewars.com/kata/526c7363236867513f0005ca/kotlin)
 
 ### 8 kyu:
 - [solution](https://github.com/ILYA-NASA/CodeWars/blob/master/src/ReversedSequence.kt) kata named [Reversed sequence](https://www.codewars.com/kata/5a00e05cc374cb34d100000d/kotlin)

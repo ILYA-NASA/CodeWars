@@ -29,3 +29,4 @@
 - [solution](https://github.com/ILYA-NASA/CodeWars/blob/master/src/EvenOrOdd.kt) kata named [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/kotlin)
 - [solution](https://github.com/ILYA-NASA/CodeWars/blob/master/src/CountPositivesSumNegatives.kt) kata named [Count of positives / sum of negatives](https://www.codewars.com/kata/576bb71bbbcf0951d5000044/kotlin)
 - [solution](https://github.com/ILYA-NASA/CodeWars/blob/master/src/SumOfPositive.kt) kata named [Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381/kotlin)
+- [solution](https://github.com/ILYA-NASA/CodeWars/blob/master/src/TheFeastOfManyBeasts.kt) kata named [The Feast of Many Beasts](https://www.codewars.com/kata/5aa736a455f906981800360d/kotlin)

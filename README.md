@@ -21,6 +21,7 @@
 - [solution](https://github.com/ILYA-NASA/CodeWars/blob/master/src/Plus%20-%20minus%20-%20plus%20-%20plus%20-%20...%20-%20Count.kt) kata named [Plus - minus - plus - plus - ... - Count](https://www.codewars.com/kata/5bbb8887484fcd36fb0020ca/kotlin)
 - [solution](https://github.com/ILYA-NASA/CodeWars/blob/master/src/LeapYears.kt) kata named [Leap Years](https://www.codewars.com/kata/526c7363236867513f0005ca/kotlin)
 - [solution](https://github.com/ILYA-NASA/CodeWars/blob/master/src/FizzBuzz.kt) kata named [Fizz Buzz](https://www.codewars.com/kata/5300901726d12b80e8000498/kotlin)
+- [solution](https://github.com/ILYA-NASA/CodeWars/blob/master/src/ListFiltering.kt) kata named [List Filtering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/kotlin)
 
 ### 8 kyu:
 - [solution](https://github.com/ILYA-NASA/CodeWars/blob/master/src/ReversedSequence.kt) kata named [Reversed sequence](https://www.codewars.com/kata/5a00e05cc374cb34d100000d/kotlin)
